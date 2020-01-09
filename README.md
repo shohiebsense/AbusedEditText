@@ -8,3 +8,6 @@ Focused, unfocused
   
   
 ### Resolution
+1. Recognize the difference of Color and ColorStateList
+2. Put the color state list in color resource folder
+3. You can call the color state list res by ContextCompat.getColorStateList()
