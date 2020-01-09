@@ -15,6 +15,8 @@ Focused, unfocused
 4. Put the color list as hint text color
 5. Put the hintTextAppearance (style) as activated hint text color
 
+<img src="https://github.com/shohiebsense/AbusedEditText/blob/master/showcase.gif" data-canonical-src="https://github.com/shohiebsense/AbusedEditText/blob/master/showcase.gif" width="200" height="400" />
+
 ### Useful Links
 https://developer.android.com/guide/topics/resources/color-list-resource  
 https://medium.com/@Gryzor/styling-textinputlayout-and-textinputedittext-on-android-9ab786bef7af  
