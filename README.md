@@ -7,4 +7,4 @@ You want to have EditText, wrapped inside TextInputLayout with customized color,
 Focused, unfocused  
   
   
-### Resolve
+### Resolution
