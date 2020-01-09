@@ -4,7 +4,9 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#c5e1a5</color>
 
-
-
+    <color name="color_label_focused">#f44336</color>
+   <!-- <color name="color_label_unfocused">#607D8B</color>-->
+    <color name="color_label_unfocused">#4CAF50</color>
+    <color name="color_value">#b71c1c</color>
 
 </resources>

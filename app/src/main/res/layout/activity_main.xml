@@ -9,21 +9,29 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <com.google.android.material.textfield.TextInputLayout
-        android:layout_width="match_parent"
+    <TextView
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:hintTextAppearance="@style/HintAbusedTextInputLayout"
-        android:textColorHint="@color/colorPrimaryDark"
-        android:theme="@style/AbusedTextInputLayout"
-        app:backgroundTint="@drawable/color_label"
-        android:hint="Username">
+        android:text="Abused"/>
+
+    <com.shohiebsense.edittextcolorabuse.AbusedTextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
+            android:hint="Username"
+            android:textColor="@color/color_label"
             android:layout_height="wrap_content"/>
 
 
-    </com.google.android.material.textfield.TextInputLayout>
+    </com.shohiebsense.edittextcolorabuse.AbusedTextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Normal"/>
+
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
